@@ -1,1 +1,5 @@
-# NGCP_Object_Detection_Project
+##  NGCP_Object_Detection_Project
+### Author: Harry Nguyen
+The project was part of the Northrop Grumman Collaboration Project (NGCP) where students from Cal Poly Pomona (CPP) and Cal Poly San Luis Obispo (CPSLO) partnered to make advanced autonomous systems of unmanned vehicles with the proper infrastructure to help locate and rescue a hiker in time in a search and rescue mission. 
+1. I was assigned to the Object Detection Team, a part of the Embedded Software team of the Unmanned Ground Vehicle (UGV) platform. 
+2. The project aimed to build a reliable TensorFlow Lite object detection machine learning model on a Raspberry Pi and implement it in an embedded hardware and software system. The main goal was to use this model to guide a self-driving small-scale vehicle through a search area to reach a lost/injured hiker without colliding with obstacles on the paths. 
